@@ -11,6 +11,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind the ASPxTreeView with associated objects or the XpoHierarchicalDataSource 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2875/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement the <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.ihierarchicaldatasource.aspx"><u>IHierarchicalDataSource</u></a> interface to support XPO objects. The ASPxTreeView,  and some standard navigation controls don't support the XpoDataSource control, because it doesn't implement the IHierarchicalDataSource interface.</p><p><strong>See also:<br />
